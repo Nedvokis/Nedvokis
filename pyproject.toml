@@ -1,0 +1,11 @@
+[project]
+name = "denis-khilkov-cv"
+version = "0.1.0"
+description = "CV pipeline for Denis Khilkov (markdown → PDF via WeasyPrint)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "markdown>=3.8.2",
+    "weasyprint>=66.0",
+    "flask>=3.0",
+]

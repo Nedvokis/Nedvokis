@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.python-version
+
+# Environment
+.env
+
+# Source materials (local only)
+CV_PLAN.md
+IvanKhilkovCV.md
+Ivan_CV_FULL.pdf
+Хилков Денис Андреевич.pdf
+
+# AI workflow artifacts
+docs/ai/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
