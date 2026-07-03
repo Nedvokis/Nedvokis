@@ -4,7 +4,7 @@
 
 ## Contact Information
 
-[Email](mailto:d.khilkov@gmail.com) • [Telegram](https://t.me/Nedvokis) • [GitHub](https://github.com/Nedvokis) • [CV.pdf](https://github.com/Nedvokis/CurriculumVitae/raw/main/CV.pdf)
+[Email](mailto:d.khilkov@gmail.com) • [Telegram](https://t.me/Nedvokis) • [GitHub](https://github.com/Nedvokis) • [CV.pdf](https://github.com/Nedvokis/Nedvokis/raw/main/CV.pdf)
 
 ## Professional Summary
 
@@ -85,4 +85,4 @@ _Industrial Automation Systems_
 
 ---
 
-[Full CV.pdf](https://github.com/Nedvokis/CurriculumVitae/raw/main/CV_FULL.pdf)
+[Full CV.pdf](https://github.com/Nedvokis/Nedvokis/raw/main/CV_FULL.pdf)
